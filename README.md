@@ -18,3 +18,5 @@ A suggestion for an effective 11-step LLM summer study plan:
 11) Build something cool and share it with the world.
 
 (Read = read, run the code, and attempt the exercises 😊)
+
+One interesting add-on is this [video](https://www.youtube.com/watch?v=wjZofJX0v4M&ab_channel=3Blue1Brown) from 3 Blue 1 Brown.
