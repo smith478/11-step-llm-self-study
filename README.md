@@ -20,3 +20,5 @@ A suggestion for an effective 11-step LLM summer study plan:
 (Read = read, run the code, and attempt the exercises 😊)
 
 One interesting add-on is this [video](https://www.youtube.com/watch?v=wjZofJX0v4M&ab_channel=3Blue1Brown) from 3 Blue 1 Brown.
+
+Here is another overview [video](https://www.youtube.com/watch?v=kPGTx4wcm_w&ab_channel=SebastianRaschka) by S. Raschka 
