@@ -22,3 +22,5 @@ A suggestion for an effective 11-step LLM summer study plan:
 One interesting add-on is this [video](https://www.youtube.com/watch?v=wjZofJX0v4M&ab_channel=3Blue1Brown) from 3 Blue 1 Brown.
 
 Here is another overview [video](https://www.youtube.com/watch?v=kPGTx4wcm_w&ab_channel=SebastianRaschka) by S. Raschka 
+
+Related [video](https://www.youtube.com/watch?v=l8pRSuU81PU&ab_channel=AndrejKarpathy) by Karpathy showing how to build GPT2
